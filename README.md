@@ -63,6 +63,7 @@ I'm always looking for opportunities to collaborate and learn something new.
   <br>
 
   <img src="https://raw.githubusercontent.com/nbishtawi/Opioid-trends-postdischarge/main/figures/treemap_diagnoses.png" width="400"/>
+  
   <br><br>
   🔗 [View project](https://github.com/nbishtawi/Opioid-trends-postdischarge)
 
