@@ -84,4 +84,4 @@ I'm always looking for opportunities to collaborate and learn something new.
 
 📬 **Get in touch**  
 📧 nadeem.bishtawi@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nadeem-bishtawi/) • [GitHub](https://github.com/nbishtawi)
+🔗 [LinkedIn](https://www.linkedin.com/in/nadeem-bishtawi-049320194/)
