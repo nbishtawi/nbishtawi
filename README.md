@@ -1,14 +1,10 @@
 # Hi there 👋 I'm Nadeem
 
-I'm a Data Science and Analytics Master's student at the University of Calgary, with a background in biology and a passion for machine learning, health informatics, and research. My journey into data science was driven by my interest in uncovering meaningful insights from complex data—particularly in healthcare and bioinformatics.
+I'm a Master's student in Data Science and Analytics at the University of Calgary with a background in biology. I’m especially interested in applying machine learning and statistical methods to health and biomedical data, and I enjoy working at the intersection of research, technology, and real-world impact.
 
-I’ve worked on a variety of projects, including:
-- Voice cloning & fake audio detection using the TIMIT corpus
-- Reinforcement learning for CRM and marketing
-- RNA-seq and metabolomic pathway integration
-- ICU intervention dashboards and public health surveillance tools
+I am currently researching RNA-sequencing and metabolomics integration in data science at Dr. Brent Winston's Metabolomics Lab. My academic path has been shaped by a curiosity for understanding complex systems and a drive to contribute to meaningful solutions in healthcare and public health.
 
-I'm always looking for opportunities to collaborate and learn something new. 
+I'm always looking to expand my skills, collaborate on thoughtful projects, and explore new tools and ideas in the data science space.
 
 ---
 
