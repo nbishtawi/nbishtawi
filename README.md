@@ -80,4 +80,4 @@ I'm always looking to expand my skills, collaborate on thoughtful projects, and 
 
 📬 **Get in touch**  
 📧 nadeem.bishtawi@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nadeem-bishtawi-049320194/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nadeem-bishtawi/)
