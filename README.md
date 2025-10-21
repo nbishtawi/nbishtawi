@@ -34,7 +34,7 @@ I'm always looking to expand my skills, collaborate on thoughtful projects, and 
   The pipeline supports speaker-to-speaker cloning and explores WER metrics for evaluation.  
   This project demonstrates applied work in synthetic speech and anti-spoofing detection.
   <br><br>
-  🔗 [View project]((https://github.com/nbishtawi/VCFAD---Voice-Cloning-and-Fake-Audio-Detection)
+  🔗 [View project](https://github.com/nbishtawi/VCFAD---Voice-Cloning-and-Fake-Audio-Detection)
 
 </details>
 
